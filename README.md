@@ -2,6 +2,6 @@
 it's just template for go development.
 
 # how to use
- $ git remote add origin "repository"
- $ make build
- $ make app 
+ $ git remote add origin "repository"  
+ $ make build  
+ $ make app  
